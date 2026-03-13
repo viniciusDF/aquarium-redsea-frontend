@@ -1,0 +1,11 @@
+# node
+node_modules
+dist
+
+# java
+target
+*.log
+
+# ide
+.idea
+.vscode
